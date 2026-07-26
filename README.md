@@ -2,8 +2,8 @@
 
 ## Project Details
 
-**Intern ID:** Your Intern ID  
-**Name:** Your Name  
+**Intern ID:** CITS7078  
+**Name:** Pallavi Mulugu  
 **Duration:** 4 Weeks  
 
 ## Project Scope
